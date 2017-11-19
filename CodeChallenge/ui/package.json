@@ -12,8 +12,8 @@
     "d3-tip": "^0.7.1",
     "save-svg-as-png": "^1.2.0"
   },
-  "scripts": {
-    "dev": "lite-server"
+ "scripts": {
+    "dev": "node rest.js | lite-server"
   },
   "author": "",
   "license": "ISC",
