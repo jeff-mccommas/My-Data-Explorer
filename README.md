@@ -6,4 +6,4 @@
 - Run command `npm install`
 - Run `npm run dev`
 
-Above steps will reun rest.js on port 3000 and host UI on lite-server and open application on default browser.
+Above steps will run rest.js on port 3000 and host UI on lite-server and open application on default browser.
