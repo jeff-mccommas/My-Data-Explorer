@@ -1,14 +1,9 @@
-## my-data-explorer
+# My Data Explorer
 
-##To Run this application
+## To Run this application
 
- > Run rest.js 
- 
- > Go to /ui/ directory
- 
- > Do npm install
- 
- > run npm run dev
+- Go to /ui/ directory
+- Run command `npm install`
+- Run `npm run dev`
 
-
-
+Above steps will reun rest.js on port 3000 and host UI on lite-server and open application on default browser.
